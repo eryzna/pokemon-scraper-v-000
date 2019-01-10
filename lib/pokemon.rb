@@ -18,5 +18,6 @@ class Pokemon
   end
 
   def alter_hp(name, hp)
+    hp=59
   end
 end
